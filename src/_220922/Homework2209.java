@@ -1,3 +1,5 @@
+package _220922;
+
 import java.util.Scanner;
 
 public class Homework2209 {
